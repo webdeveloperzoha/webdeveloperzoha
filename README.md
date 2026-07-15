@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **HTML5, CSS3,Javascript,jQuery, Bootstrap, PHP, MySQL,WordPress , MySQL,**
+- 🌱 I’m currently learning **HTML5, CSS3,Javascript,jQuery, Bootstrap, PHP, MySQL,WordPress , **
 
 - 📝 I regularly write articles on [www.sopnokotha.com](www.sopnokotha.com)
 
