@@ -1,4 +1,4 @@
-<img src=""></img>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFwb0lsLuuMoA/profile-displaybackgroundimage-shrink_200_800/B4DZ9rJS45J4AQ-/0/1784209026876?e=1785974400&v=beta&t=vUdUCKXdP6bxT_7pZ69QODoSyDFsUectshtBdW0NXHI"></img>
 <h1 align="center">Hi 👋, I'm Md Shamsuzzoha</h1>
 <h3 align="center">Frontend Developer & WordPress Specialist with a passion for crafting intuitive, accessible, and fully responsive websites.</h3>
 
