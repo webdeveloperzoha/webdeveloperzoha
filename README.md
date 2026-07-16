@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFwb0lsLuuMoA/profile-displaybackgroundimage-shrink_200_800/B4DZ9rJS45J4AQ-/0/1784209026876?e=1785974400&v=beta&t=vUdUCKXdP6bxT_7pZ69QODoSyDFsUectshtBdW0NXHI"></img>
-<h1 align="center">Hi 👋, I'm Md Shamsuzzoha</h1>
+<h1 align="center">Hi, I'm Md Shamsuzzoha</h1>
 <h3 align="center">Frontend Developer & WordPress Specialist with a passion for crafting intuitive, accessible, and fully responsive websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloperzoha&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloperzoha" /> </p>
