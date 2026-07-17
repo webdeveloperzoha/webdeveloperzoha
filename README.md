@@ -59,9 +59,10 @@
 **[sopnokotha.com](https://sopnokotha.com)** — A Bangla-language content platform for Bangladeshi students, publishing SEO-optimized guides on scholarships, university admissions, and exam preparation. Built and maintained end-to-end, from content strategy and SEO structured data to the site itself.
 
 **[Portfolio Site](https://webdeveloperzoha.github.io/Zohaportfolio/)** — My personal portfolio showcasing web design and development projects, services, and client testimonials.
+
 **[Charityfund Site](https://webdeveloperzoha.github.io/Charityfund/)** — A charityfund site showcasing web design and development projects, services, and client testimonials.
 
-**[Charityfund Site]((https://webdeveloperzoha.github.io/Charityfund/)** — A charityfund site showcasing web design and development projects, services, and client testimonials.
+
 
 **[SAAS Site]([(https://webdeveloperzoha.github.io/Saas-Startup/))** — A SAAS site showcasing web design and development projects, services, and client testimonials.
 
