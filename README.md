@@ -56,6 +56,8 @@
 
 ### 🚀 Featured Work
 
+**[Matrimony Site](https://webdeveloperzoha.github.io/Carpentary-website/)** — Responsive concept website for Heartwood, a bespoke carpentry & joinery studio — built with HTML, CSS, and JS.
+
 **[Matrimony Site](https://webdeveloperzoha.github.io/Matrimony/)** — My matrimony website showcasing web design and development projects, services, and client testimonials.
 
 **[Portfolio Site](https://webdeveloperzoha.github.io/Zohaportfolio/)** — My personal portfolio showcasing web design and development projects, services, and client testimonials.
