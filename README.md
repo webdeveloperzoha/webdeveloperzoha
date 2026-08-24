@@ -57,6 +57,9 @@
 ### 🚀 Featured Work
 
 
+
+**[custom-cabinetry-website](https://webdeveloperzoha.github.io/cabinet/)** — Modern and responsive e-commerce template for a custom kitchen & bath cabinetry business with cart and quote functionality.
+
 **[Lead-Generation website](https://webdeveloperzoha.github.io/Lead-Generation/)** — Responsive lead-gen website concept for a Perth landscaping company — before/after gallery, quote form, local SEO schema, GA4 tracking..
 
 **[Carpentary website](https://webdeveloperzoha.github.io/Carpentary-website/)** — Responsive concept website for Heartwood, a bespoke carpentry & joinery studio — built with HTML, CSS, and JS.
