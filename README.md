@@ -58,7 +58,7 @@
 
 
 
-**[custom-cabinetry-website](https://webdeveloperzoha.github.io/cabinet/)** — Modern and responsive e-commerce template for a custom kitchen & bath cabinetry business with cart and quote functionality.
+**[Custom-cabinetry-website](https://webdeveloperzoha.github.io/cabinet/)** — Modern and responsive e-commerce template for a custom kitchen & bath cabinetry business with cart and quote functionality.
 
 **[Lead-Generation website](https://webdeveloperzoha.github.io/Lead-Generation/)** — Responsive lead-gen website concept for a Perth landscaping company — before/after gallery, quote form, local SEO schema, GA4 tracking..
 
