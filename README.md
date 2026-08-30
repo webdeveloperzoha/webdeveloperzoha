@@ -58,6 +58,8 @@
 
 **[WEb Development Agency Website](https://webdeveloperzoha.github.io/ZDev.IT/)** — Z Dev.IT is a modern web development studio and digital solutions portfolio founded by full-stack developer Md Shamsuzzoha.
 
+**[Home-Renovations](https://webdeveloperzoha.github.io/Home-Renovations/)** — Home Renovations is a responsive front-end landing page for a home remodeling business, highlighting services, a portfolio gallery, customer reviews, and a consultation contact form.
+
 **[Custom-cabinetry-website](https://webdeveloperzoha.github.io/cabinet/)** — Modern and responsive e-commerce template for a custom kitchen & bath cabinetry business with cart and quote functionality.
 
 **[Lead-Generation website](https://webdeveloperzoha.github.io/Lead-Generation/)** — Responsive lead-gen website concept for a Perth landscaping company — before/after gallery, quote form, local SEO schema, GA4 tracking..
