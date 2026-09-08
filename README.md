@@ -56,6 +56,8 @@
 
 ### 🚀 Featured Work
 
+**[grocery Ecommerce Website](https://webdeveloperzoha.github.io/Grocery-ecommerce/)** — zgrocery is a responsive, multi-page organic eCommerce website built with HTML5, CSS3, Bootstrap 5, and jQuery, showcasing a nature-inspired dark theme and interactive 3D hero animations. It features a dynamic product carousel, live cart micro-interactions, and a dedicated express order-checkout system.
+
 **[WEb Development Agency Website](https://webdeveloperzoha.github.io/ZDev.IT/)** — Z Dev.IT is a modern web development studio and digital solutions portfolio founded by full-stack developer Md Shamsuzzoha.
 
 **[Home-Renovations](https://webdeveloperzoha.github.io/Home-Renovations/)** — Home Renovations is a responsive front-end landing page for a home remodeling business, highlighting services, a portfolio gallery, customer reviews, and a consultation contact form.
