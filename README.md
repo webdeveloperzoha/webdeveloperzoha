@@ -111,15 +111,15 @@
 
 <div align="center">
 
-<a href="mailto:gmzoha9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:agmshamsuzzoha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://webdeveloperzoha.github.io/Zohaportfolio/"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://sopnokotha.com"><img src="https://img.shields.io/badge/sopnokotha.com-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://zohadevit.com"><img src="https://img.shields.io/badge/Z_Dev.IT-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.facebook.com/rajusirsc"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <!-- Add your LinkedIn / Facebook / Twitter badges here once you share the links, e.g.:
 <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
 
-</div>
+</div> 
 
 <div align="center">
 
