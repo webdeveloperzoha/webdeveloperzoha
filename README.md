@@ -3,10 +3,10 @@
 
 # Hi, I'm Md Shamsuzzoha 👋
 
-### Full-Stack Web Developer — Building Fast, Reliable & Scalable Websites for Businesses
+### A professional web designer, developer and WordPress expert
 
 <a href="https://webdeveloperzoha.github.io/Zohaportfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-1F4E79?style=for-the-badge&logoColor=white" /></a>
-<a href="https://sopnokotha.com"><img src="https://img.shields.io/badge/📰_sopnokotha.com-1F4E79?style=for-the-badge&logoColor=white" /></a>
+<a href="https://zohadevit.com" /></a>
 <a href="https://docs.google.com/document/d/1HVYci3JEW1Tzb2ki5hINAPBzOgYk8uX1iZd8FYbPGtA/edit?usp=sharing"><img src="https://img.shields.io/badge/📄_Download_CV-1F4E79?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:gmzoha9@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Me-1F4E79?style=for-the-badge&logoColor=white" /></a>
 
@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently freelancing as a **Full-Stack Web Developer**, building client websites and web apps
-- 📝 Founder & content lead at **[sopnokotha.com](https://sopnokotha.com)** — a Bangla-language content platform for Bangladeshi students, covering scholarships, admissions, and exam guidance
+- 📝 Founder & content lead at **[zohadevit.com](https://zohadevit.com)** — zohadevit.com is the official portfolio website of Z Dev.IT, a full-stack web development studio dedicated to delivering modern, high-performance websites, e-commerce stores, and custom web applications.
 - 🌱 Deepening my expertise in **React, Next.js, TypeScript**, and modern frontend architecture
 - 💬 Ask me about **React/Next.js development, WordPress, SEO content strategy, or freelance web projects**
 - 📫 Reach me at **gmzoha9@gmail.com**
@@ -37,6 +37,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Theme Customization](https://img.shields.io/badge/WordPress-Theme_Customization-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 
 **Backend & CMS**
 
