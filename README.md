@@ -61,6 +61,7 @@
 ---
 
 ### 🚀 Featured Work
+**[Solar Website](https://webdeveloperzoha.github.io/solar-website/)** — This Solar-website is a modern, responsive single-page landing site designed for clean energy and residential/commercial solar installation services.
 
 **[Electronics Ecommerce Website](https://webdeveloperzoha.github.io/Electronic-ecommerce/)** — A responsive multipurpose e-commerce storefront template built with HTML5, CSS3, Bootstrap, and jQuery, featuring mega menus, dynamic product carousels, and optimized load performance.
 
