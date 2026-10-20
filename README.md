@@ -8,7 +8,7 @@
 <a href="https://webdeveloperzoha.github.io/Zohaportfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-1F4E79?style=for-the-badge&logoColor=white" /></a>
 <a href="https://zohadevit.com" /></a>
 <a href="https://docs.google.com/document/d/1HVYci3JEW1Tzb2ki5hINAPBzOgYk8uX1iZd8FYbPGtA/edit?usp=sharing"><img src="https://img.shields.io/badge/📄_Download_CV-1F4E79?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:gmzoha9@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Me-1F4E79?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:admin@zohadevit.com"><img src="https://img.shields.io/badge/✉️_Email_Me-1F4E79?style=for-the-badge&logoColor=white" /></a>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently freelancing as a **Full-Stack Web Developer**, building client websites and web apps
+- 🔭 Currently freelancing as a **A professional web designer, developer and WordPress expert**, building client websites and web apps
 - 📝 Founder & content lead at **[zohadevit.com](https://zohadevit.com)** — zohadevit.com is the official portfolio website of Z Dev.IT, a full-stack web development studio dedicated to delivering modern, high-performance websites, e-commerce stores, and custom web applications.
 - 🌱 Deepening my expertise in **React, Next.js, TypeScript**, and modern frontend architecture
 - 💬 Ask me about **React/Next.js development, WordPress, SEO content strategy, or freelance web projects**
-- 📫 Reach me at **gmzoha9@gmail.com**
+- 📫 Reach me at **admin@zohadevit.com**
 
 ---
 
