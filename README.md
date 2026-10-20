@@ -62,6 +62,8 @@
 
 ### 🚀 Featured Work
 
+**[Dental Clinic Website](https://webdeveloperzoha.github.io/Dental-Clinic/)** — Modern, responsive dental clinic website featuring online appointment booking, service showcases, and patient testimonials.
+
 **[Ontop Real State Website](https://webdeveloperzoha.github.io/Ontop-Real-State/)** — Ontop is a modern, responsive real estate website designed for showcasing, buying, and exploring premium residential properties.
 
 **[Solar Website](https://webdeveloperzoha.github.io/solar-website/)** — This Solar-website is a modern, responsive single-page landing site designed for clean energy and residential/commercial solar installation services.
