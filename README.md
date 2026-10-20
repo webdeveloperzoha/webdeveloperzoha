@@ -62,6 +62,8 @@
 
 ### 🚀 Featured Work
 
+**[Eye Clinic Website](https://webdeveloperzoha.github.io/Eye-Clinic/)** — Modern, responsive eye clinic website featuring online appointment booking, service showcases, and patient testimonials.
+
 **[Dental Clinic Website](https://webdeveloperzoha.github.io/Dental-Clinic/)** — Modern, responsive dental clinic website featuring online appointment booking, service showcases, and patient testimonials.
 
 **[Ontop Real State Website](https://webdeveloperzoha.github.io/Ontop-Real-State/)** — Ontop is a modern, responsive real estate website designed for showcasing, buying, and exploring premium residential properties.
