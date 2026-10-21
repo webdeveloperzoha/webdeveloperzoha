@@ -62,6 +62,8 @@
 
 ### 🚀 Featured Work
 
+**[Pet Care Website](https://webdeveloperzoha.github.io/Pet-care/)** — A modern, responsive pet care website featuring service showcases, client testimonials, and seamless online appointment booking.
+
 **[Eye Clinic Website](https://webdeveloperzoha.github.io/Eye-Clinic/)** — Modern, responsive eye clinic website featuring online appointment booking, service showcases, and patient testimonials.
 
 **[Dental Clinic Website](https://webdeveloperzoha.github.io/Dental-Clinic/)** — Modern, responsive dental clinic website featuring online appointment booking, service showcases, and patient testimonials.
